@@ -1,0 +1,74 @@
+ THIS IS A HEADING 1
+ THIS IS ALSO HEADING 1
+
+This is a paragraph. There are two
+heading 1's above.  Headings do not work
+like paragraphs.  Two headings on
+consecutive lines are two headings.
+
+ THIS IS A HEADING 2
+ THIS IS A HEADING 3
+ THIS IS ALSO HEADING 3
+
+This is a single
+paragraph.  It is not
+multiple paragraphs. 
+Make sure these lines
+get joined into one
+paragraph.  There should be
+no line breaks.
+
+This is a second paragraph. The line
+length does not matter.
+
+=====
+ This is a single block quote. It is similar
+=====
+=====
+ to a paragraph, except that it is styled
+=====
+=====
+ a little differently
+=====
+
+
+
+
+Blank lines should not be in the output.
+Use them to help 
+determine when paragraphs and
+blockquotes end.
+
+ LINE BREAKS
+
+This is a single
+
+paragraph.  But it has line
+
+breaks in the middle.
+
+ A HEADING 2 IN THE MIDDLE
+
+Sometimes, you want a divider between
+things. 
+Use three dashes on a line by itself.
+
+---
+
+This is after the divider, which is
+called a horizontal rule.
+
+ SPACES AT THE BEGINNING OF THE LINES
+
+Spaces at the beginning
+of a line do
+not matter.
+Make sure to use trim() a lot.
+
+  SYMBOLS IN THE MIDDLE OF THE SENTENCE
+
+If you see special symbols like #,  ###,
+or --- 
+anywhere except the beginning of the
+line, just  treat them
+as normal text.
